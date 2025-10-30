@@ -6,6 +6,7 @@
 
 StudentRecords is a simple Ethereum-based smart contract written in Solidity that securely stores and verifies student academic records on the blockchain.
 It ensures transparency and trust — once data is stored, it cannot be tampered with, making it perfect for decentralized academic record management.
+<img width="1459" height="733" alt="image" src="https://github.com/user-attachments/assets/2dd81cad-3a75-4d32-88b6-c72cc9e612ba" />
 
 
 ---
@@ -41,8 +42,7 @@ It’s a great beginner-level project for learning how to build, deploy, and int
 
 🔗 Deployed Smart Contract
 
-Contract Address: XXX
-(Replace with your deployed contract link once deployed on Remix, Sepolia, or any Ethereum testnet)
+Contract Address: https://celo-sepolia.blockscout.com/tx/0xba8d5b022962b9c6ebc6f979781d7de6749034598ddf0396e6d6a161c3f94afb
 
 
 ---
